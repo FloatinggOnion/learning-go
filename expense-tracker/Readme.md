@@ -1,6 +1,6 @@
 # Golang Expense Tracker
 *Author: Jesse-Paul Osemeke*
-This is a simple command-line application written in Go to track expenses. It allows you to add, list, summarize, and delete expenses stored in a JSON file.
+This is a simple command-line application written in Go to track expenses. It allows you to add, list, summarize, and delete expenses stored in a JSON file. The idea is gotten from [this challenge](https://roadmap.sh/projects/expense-tracker).
 
 
 ## Features
